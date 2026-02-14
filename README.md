@@ -62,6 +62,12 @@ You now have two options:
 
 - Small sttuters while loading some assets.
 - translations not working.
+  
+---
+## Additional notes:
+
+- It is recommended to change the graphic quality setting to 1 on the options tab to get better performance.
+
 
 ---
 ## 📸 Screenshots

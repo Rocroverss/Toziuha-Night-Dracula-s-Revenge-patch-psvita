@@ -60,8 +60,8 @@ You now have two options:
 
 ## Known issues:
 
-- small sttuters whil loadign some assets.
-
+- Small sttuters while loading some assets.
+- translations not working.
 
 ---
 ## 📸 Screenshots

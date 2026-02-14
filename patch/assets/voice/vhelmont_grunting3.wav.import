@@ -1,0 +1,23 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/vhelmont_grunting3.wav-382b585d45149d400e99a9eb12aa4ea4.sample"
+
+[deps]
+
+source_file="res://assets/voice/vhelmont_grunting3.wav"
+dest_files=[ "res://.import/vhelmont_grunting3.wav-382b585d45149d400e99a9eb12aa4ea4.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

@@ -1,5 +1,5 @@
 
-# The Legend of Lumina — PSVita Patch
+# Toziuha Night Dracula's Revenge — PSVita Patch
 
 **A patch for _Toziuha Night Dracula's Revenge_ to run on the PlayStation Vita.**  
 **Toziuha Night Dracula's Revenge** is a 2D side-scrolling action platformer with **classicvania style**. Travel through different linear maps set in a dark fantasy world; such as a gloomy forest and Count Dracula's castle.
